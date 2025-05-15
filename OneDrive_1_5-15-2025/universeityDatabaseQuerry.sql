@@ -1,5 +1,4 @@
-create database university;
-use university;
+use cs332u14;
 Create table Address  (
       addressID  int NOT NULL,
       streetAddress varchar(75) NOT NULL,
