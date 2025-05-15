@@ -1,4 +1,4 @@
-use university;
+use cs332u14;
 select * from course;
 select * from Professor;
 select * from department;
