@@ -92,6 +92,3 @@ call ProfSchedule('421569328');
 call countGrades(300, 101);
 call listSections(221);
 call listCoursesAndGrades(1003);
-
-
-GRANT ALL ON *.* TO 'localhost_stevoclock21'@'localhost';
